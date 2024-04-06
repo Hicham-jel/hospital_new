@@ -1,4 +1,6 @@
 Activité TP3
+
+
 @Controller --> pour avoir un controleur
 @Entity --> indiquer que la classe est une entité doit etre mappé dans une table dans la BDD
 @Data--> génére automatiquement des getterset des setters
